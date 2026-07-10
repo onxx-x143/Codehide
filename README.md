@@ -37,7 +37,7 @@ got it!  You want to give a single command which will directly create the README
  git clone https://github.com/onxxx143/Codehide.git
  cd Codehide
  chmod +x main.sh
- python3 main.sh
+ bash main.sh
  ```
  If you don't want to use Git, just create a new file onxx.py and paste the full script code into it.
 
