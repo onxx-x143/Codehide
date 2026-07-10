@@ -34,7 +34,7 @@ got it!  You want to give a single command which will directly create the README
 
  ## Install Tool
  ```
- git clone https://github.com/onxx-x143143/Codehide.git
+ git clone https://github.com/onxx-x143/Codehide.git
  cd Codehide
  chmod +x main.sh
  bash main.sh
